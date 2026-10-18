@@ -1,16 +1,23 @@
-## Hi there 👋
+# FARHAN ASHRAF
 
-<!--
-**farhan162007/farhan162007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS Data Science Student · PUCIT, Lahore 🇵🇰
 
-Here are some ideas to get you started:
+Curious mind. Analytical thinking. Consistent progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Science student building a strong foundation in programming, algorithms, mathematics, and analytical problem-solving.
+
+## About Me
+- Studying BS Data Science at PUCIT.
+- Practicing C++ and Object-Oriented Programming.
+- Strengthening Data Structures and Algorithms.
+- Exploring statistics, probability, and data analysis.
+- Learning Python and machine learning fundamentals.
+
+## Current Goals
+- Improve problem-solving and code quality.
+- Master advanced data structures and algorithms.
+- Strengthen Python and data-analysis skills.
+- Learn machine learning fundamentals.
+- Contribute to academic and programming projects.
+
+*One problem at a time. One concept at a time.*
